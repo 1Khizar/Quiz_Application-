@@ -16,9 +16,8 @@ This project lets you take a quiz, track your score, and view previous quiz resu
 
 ## 🚀 How to Use
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/1Khizar/Quiz_Application-.git
+cd Quiz_Application
 ## **How the Quiz Works** 🧑‍💻
 
 1. **Start Page**: You enter your name, choose your quiz settings (category, difficulty, and number of questions).

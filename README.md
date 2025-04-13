@@ -16,8 +16,6 @@ This project lets you take a quiz, track your score, and view previous quiz resu
 
 ## 🚀 How to Use
 
-### ✅ Step 1: Clone the repo
-```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
